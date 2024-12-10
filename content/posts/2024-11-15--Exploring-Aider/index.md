@@ -136,7 +136,7 @@ change the constructor of this class to require an implementation of `BaseURLPro
 
 ```swift
 func makeDecksAPIClient(identity: Identity) -> DecksAPIClient {
-        func makeDecksAPIClient(identity: Identity) -> DecksAPIClient {
+
         let baseNetworking = JSONDecodingNetworkLayer(
             wrapping: URLSessionNetworkLayer()
         )
