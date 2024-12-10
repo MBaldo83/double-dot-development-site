@@ -1,6 +1,6 @@
 ---
 title: Semi-Automated Unit Test Writing with Aider Chat
-date: "2024-12-08"
+date: "2024-12-05"
 template: "post"
 draft: false
 slug: "/posts/aider_automated_unit_test_creation"
@@ -10,7 +10,7 @@ tags:
   - "AI"
   - "iOS"
 description: ""
-socialImage: "./media/AI_Tools_Including_Aider.png"
+socialImage: "./media/More_AI_Tools_Including_Aider.png"
 ---
 
 # About  
