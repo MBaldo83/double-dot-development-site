@@ -22,6 +22,14 @@ Please message me on [Linked In](https://www.linkedin.com/in/michael-baldock-29a
 - A password-less sign-up feature Michael developed earned Skyscanner an award at the European Identity and Awards Ceremony
 - Michael has been officially responsible as a Mentor for supporting and developing the expertise of junior members of the team
 
+### Public Speaking
+
+#### Swift Heroes 2024 - De-coupling Dependencies through Inversion
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n8BhTaLp6_g?si=Ilm9C0QuS2QuFnk6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### iOS Developer UK: Passwordless Signup At Sksycanner
+* This talk described how Sksycanner removed passwords from it's front-end sign-up and login flows, improving both our security profile and login conversion rates. (recording not available)
+
 ### Professional Training
 - The Complete Prompt Engineering for AI Boot-camp (2024)
 - New Relic: 2 day training course in how to provide high quality operational monitoring for mobile apps
