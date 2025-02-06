@@ -1,6 +1,6 @@
 ---
 title: Generative AI App Builder - Views and Navigation
-date: "2025-01-29"
+date: "2025-02-06"
 template: "post"
 draft: false
 slug: "/posts/gen_ai_app_builder_views_and_navigation"

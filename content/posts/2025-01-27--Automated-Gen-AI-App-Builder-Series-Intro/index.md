@@ -1,6 +1,6 @@
 ---
 title: Generative AI App Builder - Introduction
-date: "2025-01-27"
+date: "2025-02-01"
 template: "post"
 draft: false
 slug: "/posts/gen_ai_app_builder_introduction"
