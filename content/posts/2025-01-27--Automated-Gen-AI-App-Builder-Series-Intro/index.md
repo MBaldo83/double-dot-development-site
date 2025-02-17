@@ -81,10 +81,28 @@ The structure within the App Builder can be split into 3 main sections:
 
 ## Running the prompts Workflow
 
-The entry point to the system is a method on `AiderControl`, `run()`. Find more about how the App Builder itself is built here TODO ADD LINK.
+The entry point to the system is a method on `AiderControl`, `run()`, where you trigger the method to generate the prompt and edit the code:
+```swift
+    /**
+     Control your generation by editing the commands below.
+     */
+    func run() {
+        runDeckGeneratorViewBuilder()
+    }
+```
+
+The builder puts the pieces together and calls the pipeline runner:
+```swift
+func runDeckGeneratorViewBuilder() {
+        let viewBuilder = NewViewBuilder(newView: .deckGeneratorViewFeatureSpec())
+        promptPipelineRunner.inference(
+            using: viewBuilder,
+            with: viewBuilder
+        )
+    }
+```
 
 As an example, the following view specification:
-
 ```swift
 static func deckGeneratorViewFeatureSpec() -> MVVM.ViewSpecification {
         .init(
